@@ -1,0 +1,310 @@
+<li><button onclick="pressdisplay9vm8()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">'Raw mit Photoshop</button></li>
+<li><button onclick="pressdisplay3658()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">20 Private Wohntraeume</button></li>
+<li><button onclick="pressdisplay34b9()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">AUTO ZEITUNG</a></span></li>
+<li><button onclick="pressdisplay34be()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">AUTO ZEITUNG Classic Cars</button></li>
+<li><button onclick="pressdisplay3624()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Aalener Nachrichten</button></li>
+<li><button onclick="pressdisplay3190()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Abendzeitung München</button></li>
+<li><button onclick="pressdisplay34rq()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Adesso</a></span></li>
+<li><button onclick="pressdisplay369j()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Aichacher Nachrichten</button></li>
+<li><button onclick="pressdisplay9huy()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Alb Bote (Münsingen)</button></li>
+<li><button onclick="pressdisplay36g0()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">All About Italy (Germany)</button></li>
+<li><button onclick="pressdisplay34gl()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Aller-Zeitung</a></span></li>
+<li><button onclick="pressdisplay34hu()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Allgäuer Anzeigeblatt</button></li>
+<li><button onclick="pressdisplay34ht()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Allgäuer Zeitung (Füssener Blatt)</button></li>
+<li><button onclick="pressdisplay34hw()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Allgäuer Zeitung (Kaufbeurer Tagblatt)</button></li>
+<li><button onclick="pressdisplay34hv()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Allgäuer Zeitung (Kempter Tagblatt)</button></li>
+<li><button onclick="pressdisplay34hy()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Allgäuer Zeitung (Marktoberdorfer Landbote)</button></li>
+<li><button onclick="pressdisplay34b8()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Astrowoche</a></span></li>
+<li><button onclick="pressdisplay34f4()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Audio</button></li>
+<li><button onclick="pressdisplay369g()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Augsburger Allgemeine (Ausgabe Stadt)</button></li>
+<li><button onclick="pressdisplay369l()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Augsburger Allgemeine (Land Nord)</button></li>
+<li><button onclick="pressdisplay369m()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Augsburger Allgemeine (Land West)</button></li>
+<li><button onclick="pressdisplay34lf()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Auszeit</a></span></li>
+<li><button onclick="pressdisplay9xv2()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Autocad and Inventor Magazin</button></li>
+<li><button onclick="pressdisplay3659()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Bad &amp; Kueche</button></li>
+<li><button onclick="pressdisplay9xv3()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Bauen Aktuell</a></span></li>
+<li><button onclick="pressdisplay9vjb()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Beat</button></li>
+<li><button onclick="pressdisplay34ba()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Bella</button></li>
+<li><button onclick="pressdisplay9wt3()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Bergische Morgenpost Wermelskirchen/Hückeswagen/Radevormwald</button></li>
+<li><button onclick="pressdisplay36b2()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Bersenbrucker Kreisblatt</button></li>
+<li><button onclick="pressdisplay9huz()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Bietigheimer Zeitung</button></li>
+<li><button onclick="pressdisplay34l7()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Blu-ray Magazin</button></li>
+<li><button onclick="pressdisplay36b1()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Bramscher Nachrichten</button></li>
+<li><button onclick="pressdisplay34bb()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Bravo</a></span></li>
+<li><button onclick="pressdisplay34bc()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Bravo Girl!</button></li>
+<li><button onclick="pressdisplay34hs()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Buchloer Zeitung</button></li>
+<li><button onclick="pressdisplay36f8()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Bunte</a></span></li>
+<li><button onclick="pressdisplay34rr()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Business Spotlight</button></li>
+<li><button onclick="pressdisplay3396()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Business Traveller (Germany)</button></li>
+<li><button onclick="pressdisplay9vjd()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Bücher Magazin</a></span></li>
+<li><button onclick="pressdisplay9vjf()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">CanonFoto</button></li>
+<li><button onclick="pressdisplay3360()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Chemnitzer Morgenpost</button></li>
+<li><button onclick="pressdisplay8398()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">China Daily European Weekly</button></li>
+<li><button onclick="pressdisplay9gau()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Chronos</a></span></li>
+<li><button onclick="pressdisplay34f5()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">ColorFoto</button></li>
+<li><button onclick="pressdisplay5669()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Computerwoche</button></li>
+<li><button onclick="pressdisplay34bg()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Cosmopolitan (Germany)</button></li>
+<li><button onclick="pressdisplay34rf()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Country Homes (Germany)</button></li>
+<li><button onclick="pressdisplay9vue()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Crucero - Das Kreuzfahrtmagazin</button></li>
+<li><button onclick="pressdisplay34c1()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">DAS NEUE BLATT</a></span></li>
+<li><button onclick="pressdisplay36f9()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">DONNA</button></li>
+<li><button onclick="pressdisplay34bh()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Das Neue</button></li>
+<li><button onclick="pressdisplay36b8()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Delmenhorster Kreisblatt</button></li>
+<li><button onclick="pressdisplay34l8()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Der Fachhandler</button></li>
+<li><button onclick="pressdisplay3035()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Der Tagesspiegel</button></li>
+<li><button onclick="pressdisplay34hz()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Der Westallgäuer</button></li>
+<li><button onclick="pressdisplay34rs()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Deutsch Perfekt</button></li>
+<li><button onclick="pressdisplay3662()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Die Schoensten Landhaeuser</button></li>
+<li><button onclick="pressdisplay3663()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Die Schoensten Wohntraeume</button></li>
+<li><button onclick="pressdisplay9xv4()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Digital Business Cloud</button></li>
+<li><button onclick="pressdisplay9xv5()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Digital Engineering Magazin</button></li>
+<li><button onclick="pressdisplay34l9()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Digital Fernsehen</button></li>
+<li><button onclick="pressdisplay9xv6()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Digital Manufacturing</button></li>
+<li><button onclick="pressdisplay34la()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Digital Tested</a></span></li>
+<li><button onclick="pressdisplay34d2()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">DigitalPHOTO (Germany)</button></li>
+<li><button onclick="pressdisplay369u()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Donau Zeitung</a></span></li>
+<li><button onclick="pressdisplay369q()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Donauwoerther Zeitung</button></li>
+<li><button onclick="pressdisplay3359()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Dresdner Morgenpost</button></li>
+<li><button onclick="pressdisplay34gm()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Dresdner Neueste Nachrichten</button></li>
+<li><button onclick="pressdisplay9xv7()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">E-Commerce Magazin</button></li>
+<li><button onclick="pressdisplay9klh()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">ERFOLG Magazin</a></span></li>
+<li><button onclick="pressdisplay34rt()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Ecos</button></li>
+<li><button onclick="pressdisplay34rw()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Ecoute</button></li>
+<li><button onclick="pressdisplay34gn()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Eichsfelder Tageblatt</button></li>
+<li><button onclick="pressdisplay36b7()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Ems-Zeitung</a></span></li>
+<li><button onclick="pressdisplay9gga()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Feuerwehr-Magazin</button></li>
+<li><button onclick="pressdisplay9hzd()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Food and Travel (Germany)</button></li>
+<li><button onclick="pressdisplay9vjn()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">FotoBIBEL</a></span></li>
+<li><button onclick="pressdisplay9vjp()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">FotoEASY</button></li>
+<li><button onclick="pressdisplay36fb()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Freundin</button></li>
+<li><button onclick="pressdisplay369k()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Friedberger Allgemeine</button></li>
+<li><button onclick="pressdisplay3664()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Garden Style</a></span></li>
+<li><button onclick="pressdisplay9hv1()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Geislinger Zeitung</button></li>
+<li><button onclick="pressdisplay9gaw()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Gitarre &amp; Bass</button></li>
+<li><button onclick="pressdisplay34bk()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Good Health (Germany)</button></li>
+<li><button onclick="pressdisplay3642()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Graenzbote</a></span></li>
+<li><button onclick="pressdisplay369r()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Guenzburger Zeitung</button></li>
+<li><button onclick="pressdisplay34gp()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Göttinger Tageblatt</button></li>
+<li><button onclick="pressdisplay34lc()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">HD TV</a></span></li>
+<li><button onclick="pressdisplay9huw()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Haller Tagblatt</button></li>
+<li><button onclick="pressdisplay3021()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Hamburger Morgenpost</button></li>
+<li><button onclick="pressdisplayta37()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Handelsblatt Global Edition Magazine</button></li>
+<li><button onclick="pressdisplay3155()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Hannoversche Allgemeine</button></li>
+<li><button onclick="pressdisplay34bl()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Happinez</a></span></li>
+<li><button onclick="pressdisplay34lb()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Haus &amp; Garten Test</button></li>
+<li><button onclick="pressdisplay9hv2()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Heidenheimer Neue Presse</button></li>
+<li><button onclick="pressdisplay9hv3()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Heidenheimer Zeitung</button></li>
+<li><button onclick="pressdisplay3629()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Heuberger Bote</a></span></li>
+<li><button onclick="pressdisplay9hux()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Hohenloher Tagblatt</button></li>
+<li><button onclick="pressdisplay9hyi()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Hohenzollerische Zeitung</button></li>
+<li><button onclick="pressdisplay3665()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Holiday &amp; Lifestyle</button></li>
+<li><button onclick="pressdisplay34r7()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Homes &amp; Gardens (Germany)</button></li>
+<li><button onclick="pressdisplay34rd()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Ich Bin</a></span></li>
+<li><button onclick="pressdisplay369t()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Illertisser Zeitung</button></li>
+<li><button onclick="pressdisplay34gy()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">In München</a></span></li>
+<li><button onclick="pressdisplay3627()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Ipf- und Jagst-Zeitung</button></li>
+<li><button onclick="pressdisplay34bn()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">JOY (Germany)</a></span></li>
+<li><button onclick="pressdisplayee18()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Karibik</button></li>
+<li><button onclick="pressdisplay34bp()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Kochen &amp; Genießen</button></li>
+<li><button onclick="pressdisplay369p()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Koenigsbrunner Zeitung</button></li>
+<li><button onclick="pressdisplay3602()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Kruschelpost</a></span></li>
+<li><button onclick="pressdisplay9k45()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">L'Officiel Germany</button></li>
+<li><button onclick="pressdisplay9k46()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">L'Officiel Hommes Germany</button></li>
+<li><button onclick="pressdisplay9hm6()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">LUXE City Guides - Berlin</button></li>
+<li><button onclick="pressdisplay9vjs()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">LandGenuss</a></span></li>
+<li><button onclick="pressdisplay3667()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Landhaus Living</button></li>
+<li><button onclick="pressdisplay3668()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Landleben</a></span></li>
+<li><button onclick="pressdisplay369w()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Landsberger Tagblatt</button></li>
+<li><button onclick="pressdisplay34br()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Laura</a></span></li>
+<li><button onclick="pressdisplay34bt()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Laura WOHNEN Kreativ</button></li>
+<li><button onclick="pressdisplay36g4()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Lecker</a></span></li>
+<li><button onclick="pressdisplay34gr()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Leipziger Volkszeitung</button></li>
+<li><button onclick="pressdisplay3633()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Lindauer Zeitung</button></li>
+<li><button onclick="pressdisplay36b5()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Lingener Tagespost</button></li>
+<li><button onclick="pressdisplay34ry()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Lübecker Nachrichten</button></li>
+<li><button onclick="pressdisplay34d1()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Mac Life</a></span></li>
+<li><button onclick="pressdisplay9vjv()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Mac Life Wissen</button></li>
+<li><button onclick="pressdisplay9vjt()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">MacBIBEL</a></span></li>
+<li><button onclick="pressdisplay34p3()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Mallorca geht aus!</button></li>
+<li><button onclick="pressdisplay9vju()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Mein LandRezept</button></li>
+<li><button onclick="pressdisplay3670()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Mein Landgarten</button></li>
+<li><button onclick="pressdisplay34bs()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Mein Lieblingsrezept</button></li>
+<li><button onclick="pressdisplay9vjx()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Mein ZauberTopf</button></li>
+<li><button onclick="pressdisplay34bu()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Meins</a></span></li>
+<li><button onclick="pressdisplay9vm9()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Meisterkurs SchwarzWeiß</button></li>
+<li><button onclick="pressdisplay36b4()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Meller Kreisblatt</button></li>
+<li><button onclick="pressdisplay34hx()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Memminger Zeitung</button></li>
+<li><button onclick="pressdisplay36b6()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Meppener Tagespost</button></li>
+<li><button onclick="pressdisplay369x()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Mindelheimer Zeitung</button></li>
+<li><button onclick="pressdisplay369v()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Mittelschwaebische Nachrichten</button></li>
+<li><button onclick="pressdisplay3363()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Morgenpost am Sonntag (Chemnitzer)</button></li>
+<li><button onclick="pressdisplay3362()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Morgenpost am Sonntag (Dresdner)</button></li>
+<li><button onclick="pressdisplay34gs()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Märkische Allgemeine</button></li>
+<li><button onclick="pressdisplay9hrz()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Märkische Oderzeitung Angerm‎ünde</button></li>
+<li><button onclick="pressdisplay9hsg()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Märkische Oderzeitung Bad Freienwalde</button></li>
+<li><button onclick="pressdisplay9hsa()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Märkische Oderzeitung Beeskow</button></li>
+<li><button onclick="pressdisplay9hsb()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Märkische Oderzeitung Bernau</button></li>
+<li><button onclick="pressdisplay9hsc()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Märkische Oderzeitung Eberswalde</button></li>
+<li><button onclick="pressdisplay9hsd()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Märkische Oderzeitung Eisenhüttenstadt</button></li>
+<li><button onclick="pressdisplay9hse()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Märkische Oderzeitung Erkner</button></li>
+<li><button onclick="pressdisplay9hsf()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Märkische Oderzeitung Frankfurt</button></li>
+<li><button onclick="pressdisplay9hsh()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Märkische Oderzeitung Fürstenwalde</button></li>
+<li><button onclick="pressdisplay9hsk()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Märkische Oderzeitung Schwedt</button></li>
+<li><button onclick="pressdisplay9hsi()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Märkische Oderzeitung Seelow</button></li>
+<li><button onclick="pressdisplay9hsj()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Märkische Oderzeitung Strausberg</button></li>
+<li><button onclick="pressdisplay9hsl()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Märkischer Zeitungsverlag Oranienburger Generalanzeiger</button></li>
+<li><button onclick="pressdisplay9hv5()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">NWZ  (Göppinger Kreisnachrichten)</button></li>
+<li><button onclick="pressdisplay9vk1()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">NaturApotheke</a></span></li>
+<li><button onclick="pressdisplay369s()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Neu-Ulmer Zeitung</button></li>
+<li><button onclick="pressdisplay369y()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Neuburger Rundschau</button></li>
+<li><button onclick="pressdisplay36c4()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Neue Osnabrucker Zeitung - Bad Laer, Bad Rothenfelde, Dissen, G</button></li>
+<li><button onclick="pressdisplay36c1()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Neue Osnabrucker Zeitung - Bissendorf, Belm</button></li>
+<li><button onclick="pressdisplay36c3()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Neue Osnabrucker Zeitung - Georgsmarienhutte, Bad Iburg, Hilter</button></li>
+<li><button onclick="pressdisplay36c2()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Neue Osnabrucker Zeitung - Hagen, Hasbergen</button></li>
+<li><button onclick="pressdisplay36c5()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Neue Osnabrucker Zeitung - Lotte, Westerkappeln, Mettingen, Tecklenburg</button></li>
+<li><button onclick="pressdisplay36a9()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Neue Osnabrucker Zeitung - Stadt Osnabruck</button></li>
+<li><button onclick="pressdisplay36b9()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Neue Osnabrucker Zeitung - Wallenhorst</button></li>
+<li><button onclick="pressdisplay34c2()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Neue Post</a></span></li>
+<li><button onclick="pressdisplay3148()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Neue Presse</button></li>
+<li><button onclick="pressdisplay34hl()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Neue Westfälische - Bad Oeynhausener Kurier</button></li>
+<li><button onclick="pressdisplay34hd()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Neue Westfälische - Bielefelder Tageblatt - Bielefeld Dornberg - Werther</button></li>
+<li><button onclick="pressdisplay34ha()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Neue Westfälische - Bielefelder Tageblatt - Bielefeld Ost</button></li>
+<li><button onclick="pressdisplay34hb()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Neue Westfälische - Bielefelder Tageblatt - Bielefeld Süd</button></li>
+<li><button onclick="pressdisplay34gz()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Neue Westfälische - Bielefelder Tageblatt - Bielefeld West</button></li>
+<li><button onclick="pressdisplay34hc()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Neue Westfälische - Bielefelder Tageblatt - Bielefeld mit Oerlinghausen</button></li>
+<li><button onclick="pressdisplay34hk()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Neue Westfälische - Bünder Tageblatt</button></li>
+<li><button onclick="pressdisplay34hf()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Neue Westfälische - Gütersloher Zeitung</button></li>
+<li><button onclick="pressdisplay34hh()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Neue Westfälische - Herforder Kreisanzeiger</button></li>
+<li><button onclick="pressdisplay34hq()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Neue Westfälische - Höxtersche Kreiszeitung</button></li>
+<li><button onclick="pressdisplay34hr()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Neue Westfälische - Kreiszeitung für Warburg</button></li>
+<li><button onclick="pressdisplay34hm()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Neue Westfälische - Löhner Nachrichten</button></li>
+<li><button onclick="pressdisplay34hp()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Neue Westfälische - Paderborner Kreiszeitung</button></li>
+<li><button onclick="pressdisplay34hj()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Neue Westfälische - Tageblatt für Enger und Spenge</button></li>
+<li><button onclick="pressdisplay34he()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Neue Westfälische - Tageblatt für Schloß Holte-Stukenbrock</button></li>
+<li><button onclick="pressdisplay34hg()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Neue Westfälische - Verler Tageblatt</button></li>
+<li><button onclick="pressdisplay34hn()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Neue Westfälische - Zeitung für das Lübbecker Land</button></li>
+<li><button onclick="pressdisplay3605()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Neues Deutschland</button></li>
+<li><button onclick="pressdisplay9wt1()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Neuss Grevenbroicher Zeitung Grevenbroich/Dormagen</button></li>
+<li><button onclick="pressdisplay3180()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Neuss-Grevenbroicher Zeitung (Neuss)</button></li>
+<li><button onclick="pressdisplay9vk2()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">NikonBIBEL</a></span></li>
+<li><button onclick="pressdisplay9huj()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Nordwest-Zeitung</button></li>
+<li><button onclick="pressdisplay34rz()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Ostsee Zeitung</a></span></li>
+<li><button onclick="pressdisplay9gg5()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Ostthüringer Zeitung (Bad Lobenstein)</button></li>
+<li><button onclick="pressdisplay9gg6()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Ostthüringer Zeitung (Eisenberg)</button></li>
+<li><button onclick="pressdisplay9gfm()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Ostthüringer Zeitung (Gera)</button></li>
+<li><button onclick="pressdisplay9gg7()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Ostthüringer Zeitung (Greiz)</button></li>
+<li><button onclick="pressdisplay9gg8()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Ostthüringer Zeitung (Jena)</button></li>
+<li><button onclick="pressdisplay9gg9()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Ostthüringer Zeitung (Pößneck)</button></li>
+<li><button onclick="pressdisplay9gkj()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Ostthüringer Zeitung (Rudolstadt)</button></li>
+<li><button onclick="pressdisplay9gkk()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Ostthüringer Zeitung (Saalfeld)</button></li>
+<li><button onclick="pressdisplay9gkl()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Ostthüringer Zeitung (Schleiz)</button></li>
+<li><button onclick="pressdisplay9gkm()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Ostthüringer Zeitung (Schmölln)</button></li>
+<li><button onclick="pressdisplay9gkn()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Ostthüringer Zeitung (Stadtroda)</button></li>
+<li><button onclick="pressdisplay9gkp()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Ostthüringer Zeitung (Zeulenroda-Triebes)</button></li>
+<li><button onclick="pressdisplay9vk3()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Outdoor Fotografie</button></li>
+<li><button onclick="pressdisplay9gat()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">PAGE</a></span></li>
+<li><button onclick="pressdisplay34fa()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">PC Magazin</button></li>
+<li><button onclick="pressdisplay5668()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">PC-WELT</button></li>
+<li><button onclick="pressdisplay34fb()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">PCgo</button></li>
+<li><button onclick="pressdisplay34gu()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Peiner Allgemeine Zeitung</button></li>
+<li><button onclick="pressdisplay9vm7()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Photoshop Handbuch</button></li>
+<li><button onclick="pressdisplay9vm6()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Photoshop Lightroom</button></li>
+<li><button onclick="pressdisplay9vk4()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">PhotoshopBIBEL</a></span></li>
+<li><button onclick="pressdisplay3946()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">ProZukunft</button></li>
+<li><button onclick="pressdisplay9gay()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Production Partner</button></li>
+<li><button onclick="pressdisplay34c3()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">REZEPTE pur</a></span></li>
+<li><button onclick="pressdisplay9hv6()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Reutlinger Nachrichten&nbsp;</button></li>
+<li><button onclick="pressdisplay3012()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Rheinische Post</button></li>
+<li><button onclick="pressdisplay9wsw()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Rheinische Post - Geldern an Kevelaer</button></li>
+<li><button onclick="pressdisplay9wsv()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Rheinische Post - Kleve, Goch and Emmerich</button></li>
+<li><button onclick="pressdisplay9wsy()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Rheinische Post - Mönchengladbach and Korschenbroich</button></li>
+<li><button onclick="pressdisplay9wsx()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Rheinische Post - Opladen/Langenfeld</button></li>
+<li><button onclick="pressdisplay9wsu()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Rheinische Post - Wesel/Dinslaken</button></li>
+<li><button onclick="pressdisplay9wsz()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Rheinische Post - Xanten and Moers</button></li>
+<li><button onclick="pressdisplay3151()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Rheinische Post Duesseldorf Meerbusch</button></li>
+<li><button onclick="pressdisplay3161()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Rheinische Post Duisburg</button></li>
+<li><button onclick="pressdisplay3164()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Rheinische Post Erkelenz</button></li>
+<li><button onclick="pressdisplay3149()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Rheinische Post Hilden</button></li>
+<li><button onclick="pressdisplay3171()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Rheinische Post Krefeld Kempen</button></li>
+<li><button onclick="pressdisplay3152()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Rheinische Post Mettmann </button></li>
+<li><button onclick="pressdisplay3156()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Rheinische Post Ratingen</button></li>
+<li><button onclick="pressdisplay3183()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Rheinische Post Viersen</button></li>
+<li><button onclick="pressdisplay9wst()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Rheinische Post – Düsseldorf Mitte/West/Ost/Nord/Süd</button></li>
+<li><button onclick="pressdisplay369z()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Rieser Nachrichten</button></li>
+<li><button onclick="pressdisplay9hsp()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Rundschau für den Schwäbischen Wald – Der Kocherbote</button></li>
+<li><button onclick="pressdisplay34fc()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">SCREENGUIDE</a></span></li>
+<li><button onclick="pressdisplay34c4()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">SHAPE (Germany)</button></li>
+<li><button onclick="pressdisplay3205()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Saarbruecker Zeitung</button></li>
+<li><button onclick="pressdisplay9kli()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Sachwert Magazin</button></li>
+<li><button onclick="pressdisplay34ld()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Satellit Empfang + Technik</button></li>
+<li><button onclick="pressdisplay369n()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Schwabmuenchner Allgemeine</button></li>
+<li><button onclick="pressdisplay3630()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Schwaebische Zeitung (Alb-Donau)</button></li>
+<li><button onclick="pressdisplay3638()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Schwaebische Zeitung (Bad Saulgau)</button></li>
+<li><button onclick="pressdisplay3643()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Schwaebische Zeitung (Bad Waldsee / Aulendorf)</button></li>
+<li><button onclick="pressdisplay3625()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Schwaebische Zeitung (Biberach)</button></li>
+<li><button onclick="pressdisplay3626()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Schwaebische Zeitung (Ehingen)</button></li>
+<li><button onclick="pressdisplay3628()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Schwaebische Zeitung (Friedrichshafen)</button></li>
+<li><button onclick="pressdisplay3632()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Schwaebische Zeitung (Laupheim)</button></li>
+<li><button onclick="pressdisplay3631()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Schwaebische Zeitung (Leutkirch / Isny / Bad Wurzach)</button></li>
+<li><button onclick="pressdisplay3613()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Schwaebische Zeitung (Ravensburg / Weingarten)</button></li>
+<li><button onclick="pressdisplay3637()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Schwaebische Zeitung (Riedlingen)</button></li>
+<li><button onclick="pressdisplay3639()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Schwaebische Zeitung (Sigmaringen)</button></li>
+<li><button onclick="pressdisplay3640()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Schwaebische Zeitung (Tettnang)</button></li>
+<li><button onclick="pressdisplay3644()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Schwaebische Zeitung (Wangen)</button></li>
+<li><button onclick="pressdisplay34f9()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Smartwoman</a></span></li>
+<li><button onclick="pressdisplay9vk5()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">So is(s)t Italien</button></li>
+<li><button onclick="pressdisplay9vnb()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">So is(s)t Italien Special Edition</button></li>
+<li><button onclick="pressdisplay9wt4()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Solinger Bergische Morgenpost/Remscheid</button></li>
+<li><button onclick="pressdisplay9vk6()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">SonyBIBEL</a></span></li>
+<li><button onclick="pressdisplay34ru()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Spotlight</button></li>
+<li><button onclick="pressdisplay34fd()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Stereoplay</button></li>
+<li><button onclick="pressdisplay9vk7()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Sweet Paul</button></li>
+<li><button onclick="pressdisplay9hv4()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Südwest Presse (Metzinger Uracher Volksblatt / Der Ermstalbote)</button></li>
+<li><button onclick="pressdisplay9hv7()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Südwest Presse (Ulm)</button></li>
+<li><button onclick="pressdisplay9vrg()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Tendency</a></span></li>
+<li><button onclick="pressdisplay34qe()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Test Journal</button></li>
+<li><button onclick="pressdisplay34le()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Testjahrbuch</button></li>
+<li><button onclick="pressdisplay9gfp()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Thüringer Allgemeine (Apolda)</button></li>
+<li><button onclick="pressdisplay9gfq()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Thüringer Allgemeine (Arnstadt)</button></li>
+<li><button onclick="pressdisplay9gfr()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Thüringer Allgemeine (Artern)</button></li>
+<li><button onclick="pressdisplay9gfs()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Thüringer Allgemeine (Bad Langensalza)</button></li>
+<li><button onclick="pressdisplay9gft()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Thüringer Allgemeine (Eichsfeld)</button></li>
+<li><button onclick="pressdisplay9gfu()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Thüringer Allgemeine (Eisenach)</button></li>
+<li><button onclick="pressdisplay9gaz()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Thüringer Allgemeine (Erfurt)</button></li>
+<li><button onclick="pressdisplay9gg3()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Thüringer Allgemeine (Erfurt-Land)</button></li>
+<li><button onclick="pressdisplay9gfv()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Thüringer Allgemeine (Gotha)</button></li>
+<li><button onclick="pressdisplay9gfw()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Thüringer Allgemeine (Ilmenau)</button></li>
+<li><button onclick="pressdisplay9gfx()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Thüringer Allgemeine (Mühlhausen)</button></li>
+<li><button onclick="pressdisplay9gfy()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Thüringer Allgemeine (Nordhausen)</button></li>
+<li><button onclick="pressdisplay9gfz()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Thüringer Allgemeine (Sondershausen)</button></li>
+<li><button onclick="pressdisplay9gg1()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Thüringer Allgemeine (Sömmerda)</button></li>
+<li><button onclick="pressdisplay9gg2()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Thüringer Allgemeine (Weimar)</button></li>
+<li><button onclick="pressdisplay9gkq()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Thüringische Landeszeitung (Eichsfeld)</button></li>
+<li><button onclick="pressdisplay9gkr()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Thüringische Landeszeitung (Eisenach)</button></li>
+<li><button onclick="pressdisplay9gks()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Thüringische Landeszeitung (Erfurt)</button></li>
+<li><button onclick="pressdisplay9gkt()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Thüringische Landeszeitung (Gera)</button></li>
+<li><button onclick="pressdisplay9gku()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Thüringische Landeszeitung (Gotha)</button></li>
+<li><button onclick="pressdisplay9gkv()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Thüringische Landeszeitung (Jena)</button></li>
+<li><button onclick="pressdisplay9gkw()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Thüringische Landeszeitung (Unstrut-Hainich-Kreis)</button></li>
+<li><button onclick="pressdisplay9gfn()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Thüringische Landeszeitung (Weimar)</button></li>
+<li><button onclick="pressdisplay34c8()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Tina Koch &amp; Backideen</button></li>
+<li><button onclick="pressdisplay3671()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Traumgaerten</a></span></li>
+<li><button onclick="pressdisplay3672()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Traumwohnen</button></li>
+<li><button onclick="pressdisplay3641()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Trossinger Zeitung</button></li>
+<li><button onclick="pressdisplay9gav()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Uhren-Magazin</a></span></li>
+<li><button onclick="pressdisplay34lg()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Urlaubsmagazin MV</button></li>
+<li><button onclick="pressdisplay9i18()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">VDI Nachrichten</button></li>
+<li><button onclick="pressdisplay34ca()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">WOHNIDEE</a></span></li>
+<li><button onclick="pressdisplay368a()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Wertinger Zeitung</button></li>
+<li><button onclick="pressdisplay9d59()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Where Berlin</a></span></li>
+<li><button onclick="pressdisplay36b3()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Wittlager Kreisblatt</button></li>
+<li><button onclick="pressdisplay34gv()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Wolfsburger Allgemeine</button></li>
+<li><button onclick="pressdisplay34f6()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">connect</a></span></li>
+<li><button onclick="pressdisplay34f8()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">fotocommunity Magazin</button></li>
+<li><button onclick="pressdisplay9vjq()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">iPhone &amp; iPad Life</button></li>
+<li><button onclick="pressdisplay9vjr()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">iPhoneBIBEL</a></span></li>
+<li><button onclick="pressdisplay9vnc()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">mein ZauberTopf Special Edition</button></li>
+<li><button onclick="pressdisplay9kvq()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">reisen EXCLUSIV</button></li>
+<li><button onclick="pressdisplay3495()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">selbst ist der Mann</button></li>
+<li><button onclick="pressdisplay34c6()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">tina</a></span></li>
+<li><button onclick="pressdisplay34fe()" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">video</button></li>

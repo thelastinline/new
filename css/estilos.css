@@ -1,0 +1,53 @@
+body
+{
+	
+}
+
+a:visited
+{
+	color: red;
+}
+
+a:active
+{
+	font-style: italic;
+}
+.navbar-inverse
+{
+	
+}
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover
+{
+	background: blue;
+}
+.btn-primary
+{
+	background: #468C77;
+	border-color: #003827;
+}
+
+
+{
+	min-width: 0;
+	background-color: rgba(0,0,0,0);
+	
+}
+
+.modal-content
+{
+	background: rgba(0,0,0,0);
+}
+
+.modal-title
+{
+	color: #FFE3B9;
+}
+
+.modal-body
+{
+	position:relative;
+	padding: 5px;
+	column-count:7;
+	column-rule: 4px outset #ff00ff;
+	text-align: center;
+}
